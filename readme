@@ -8,6 +8,7 @@ Hello, this repository includes;
 Datasets I used:
   Car Prices: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
   House Prices: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data?select=test.csv
+  Bank Churners: https://www.kaggle.com/sakshigoyal7/credit-card-customers
   Diamonds: seaborn.load_dataset("diamonds")
 
 
