@@ -4,7 +4,11 @@ Hello, this repository includes;
  -template codes and roadmap to fit and tune a model. (hyperparameter tuning and early-stopping)
  -template codes to observe the results ( result-df, feature_importance...)
   
-In some methods, I inspired from Mustafa Vahit Keskin. 
 
 Datasets I used:
   Car Prices: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
+  House Prices: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data?select=test.csv
+  Diamonds: seaborn.load_dataset("diamonds")
+
+
+PS:In some methods, I inspired from Mustafa Vahit Keskin and Jason Brownlee. 
