@@ -1,0 +1,10 @@
+Hello, this repository includes;
+
+ -machine learning implementations/predictions with supervised-nonLinearRegression algorithms (RandomForest,GBM,XGB,LGBM...)
+ -template codes and roadmap to fit and tune a model. (hyperparameter tuning and early-stopping)
+ -template codes to observe the results ( result-df, feature_importance...)
+  
+In some methods, I inspired from Mustafa Vahit Keskin. 
+
+Datasets I used:
+  Car Prices: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
